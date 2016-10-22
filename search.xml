@@ -4,9 +4,15 @@
   
     
     <entry>
+      <title><![CDATA[linux]]></title>
+      <url>https://leafseelight.github.io/2016/10/22/linux/</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[My New Post]]></title>
       <url>https://leafseelight.github.io/2016/10/20/My-New-Post/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<h1 id="title"><a href="#title" class="headerlink" title="title"></a>title</h1><h2 id="sub-title"><a href="#sub-title" class="headerlink" title="sub title"></a>sub title</h2><h3 id="content-this-is-a-test-article"><a href="#content-this-is-a-test-article" class="headerlink" title="content: this is a test article."></a>content: this is a test article.</h3>]]></content>
     </entry>
     
     <entry>
